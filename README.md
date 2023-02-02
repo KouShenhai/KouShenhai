@@ -6,7 +6,6 @@ https://gitee.com/laokouyun
 https://kcloud.blog.csdn.net
 
 ## ☺️ 擅长技能
-![Spring Boot](https://img.shields.io/static/v1?label=Spring Boot&color=blue)
     <a target="_blank" href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/static/v1?label=Spring Boot&message=3.0.2&color=green" alt="SpringBoot"></a>
     <a target="_blank" href="https://spring.io/projects/spring-cloud"><img alt="Spring Cloud" src="https://img.shields.io/static/v1?label=Spring Cloud&message=2022.0.1&color=green"></a>
     <a target="_blank" href="https://github.com/alibaba/spring-cloud-alibaba"><img alt="Spring Cloud" src="https://img.shields.io/static/v1?label=Spring Cloud Alibaba&message=2022.0.0.0-RC1&color=orange"></a>
