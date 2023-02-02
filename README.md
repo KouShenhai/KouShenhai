@@ -19,4 +19,4 @@ https://gitee.com/laokouyun
 
 ## &#x1f92b; 访问次数
 
-[![Top Langs](https://profile-counter.glitch.me/sky5454/count.svg)](https://github.com/KouShenhai)
+[![Top Langs](https://profile-counter.glitch.me/laokou/count.svg)](https://github.com/KouShenhai)
