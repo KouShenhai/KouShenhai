@@ -1,5 +1,5 @@
 ## 👋 个人简介
-![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=blue)  
+![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=red)  
 我是老寇，我爱爪哇  
 以身证法，自从大道  
 https://github.com/KouShenhai  
