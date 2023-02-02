@@ -1,7 +1,9 @@
 ### Hi there 👋
-我是老寇，我爱爪哇 
-以身证法，自从大道 
-https://gitee.com/laokouyun
+
+我是老寇，我爱爪哇  
+以身证法，自从大道  
+https://github.com/KouShenhai  
+https://gitee.com/laokouyun  
 <!--
 **KouShenhai/KouShenhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
