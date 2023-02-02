@@ -1,9 +1,13 @@
-### Hi there 👋
+### 个人简介👋
 
 我是老寇，我爱爪哇  
 以身证法，自从大道  
 https://github.com/KouShenhai  
 https://gitee.com/laokouyun  
+
+
+![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&theme=dark&count_private=true)
+
 <!--
 **KouShenhai/KouShenhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
