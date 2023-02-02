@@ -3,10 +3,8 @@
 以身证法，自从大道  
 https://github.com/KouShenhai  
 https://gitee.com/laokouyun  
-https://kcloud.blog.csdn.net
-
-## ☺️ 擅长技能
-![Java](https://img.shields.io/badge/Java--blue?style=flat-square&logo=Java&logoColor=blue)
+https://kcloud.blog.csdn.net  
+[![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)
 
 ## 🔭 代码分析
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KouShenhai&theme=dark&layout=compact)
