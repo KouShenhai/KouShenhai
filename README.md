@@ -14,6 +14,9 @@ https://gitee.com/laokouyun
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 代码分析
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KouShenhai&theme=dark&layout=compact)
+
 ## &#x1f4c8; 代码统计
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&theme=dark&count_private=true)
 
