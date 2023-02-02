@@ -6,7 +6,7 @@ https://gitee.com/laokouyun
 https://kcloud.blog.csdn.net
 
 ## ☺️ 擅长技能
-![Java](https://img.shields.io/badge/Java--blue?style=flat-square&logo=Java&logoColor=blue&message=17)
+![Java](https://img.shields.io/badge/Java--blue?style=flat-square&logo=Java&logoColor=blue)
 
 ## 🔭 代码分析
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KouShenhai&theme=dark&layout=compact)
