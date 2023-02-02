@@ -1,11 +1,11 @@
 ## 👋 个人简介
-![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=red) 
-![IDEA](https://img.shields.io/badge/IDE-IDEA-black?style=flat-square&logo=JetBrains&logoColor=black)  
 我是老寇，我爱爪哇  
 以身证法，自从大道  
 https://github.com/KouShenhai  
 https://gitee.com/laokouyun  
 https://kcloud.blog.csdn.net
+
+## ☺️ 擅长技能
 
 ## 🔭 代码分析
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KouShenhai&theme=dark&layout=compact)
