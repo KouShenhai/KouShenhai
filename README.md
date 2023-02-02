@@ -2,7 +2,7 @@
 我是老寇，我爱爪哇  
 以身证法，自从大道    
 
-Github：https://github.com/KouShenhai    
+GitHub：https://github.com/KouShenhai    
 Gitee：https://gitee.com/laokouyun     
 CSDN：https://kcloud.blog.csdn.net    
 
