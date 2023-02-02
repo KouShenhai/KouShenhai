@@ -5,7 +5,6 @@
 https://github.com/KouShenhai  
 https://gitee.com/laokouyun  
 
-
 **KouShenhai/KouShenhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,3 +16,7 @@ https://gitee.com/laokouyun
 - ⚡ Fun fact: ...
 ## &#x1f4c8; 代码统计
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&theme=dark&count_private=true)
+
+## &#x1f92b; 访问次数
+
+[![Top Langs](https://profile-counter.glitch.me/sky5454/count.svg)](https://github.com/KouShenhai)
