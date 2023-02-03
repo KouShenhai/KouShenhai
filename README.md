@@ -1,6 +1,6 @@
 ## 👋 个人简介
 我是老寇，我爱爪哇  
-以身证法，自从大道    
+以身证法，自成大道    
 
 GitHub：https://github.com/KouShenhai    
 Gitee：https://gitee.com/laokouyun     
