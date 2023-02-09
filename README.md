@@ -18,6 +18,4 @@ CSDN：https://kcloud.blog.csdn.net
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&count_private=true)
 
 ## 贡献代码
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-
-![](https://github.com/Platane/KouShenhai/raw/output/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://raw.githubusercontent.com/KouShenhai/KouShenhai/main/assets/github-contribution-grid-snake.svg" ></div>
