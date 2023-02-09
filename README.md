@@ -19,3 +19,5 @@ CSDN：https://kcloud.blog.csdn.net
 
 ## 贡献代码
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+
+![](https://github.com/Platane/KouShenhai/raw/output/github-contribution-grid-snake.svg)
