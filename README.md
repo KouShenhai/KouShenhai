@@ -15,4 +15,4 @@ CSDN：https://kcloud.blog.csdn.net
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KouShenhai&layout=compact&&theme=dark)
 
 ## &#x1f4c8; 代码统计
-![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&count_private=true&&&theme=dark)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&count_private=true&&theme=dark)
