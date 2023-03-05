@@ -10,7 +10,6 @@ CSDN：https://kcloud.blog.csdn.net
 
 ## &#x1f92b; 访问次数
 [![Top Langs](https://profile-counter.glitch.me/laokou/count.svg)](https://github.com/KouShenhai)
-<p align="left" ><a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:KouShenhai"></a></p>
 
 ## 🔭 代码分析
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KouShenhai&layout=compact&&theme=dark)
