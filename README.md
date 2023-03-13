@@ -9,7 +9,7 @@ CSDN：https://kcloud.blog.csdn.net
 
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
 
-## 性格分析
+## 😲 性格分析
 INTJ
 
 ## &#x1f92b; 访问次数
