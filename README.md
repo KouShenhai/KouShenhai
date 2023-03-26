@@ -3,6 +3,8 @@
 以身证法，自成大道    
 随缘回复，我心流水   
 
+喜欢RocketMQ，热爱开源  
+
 GitHub：https://github.com/KouShenhai    
 Gitee：https://gitee.com/laokouyun     
 CSDN：https://kcloud.blog.csdn.net    
