@@ -3,7 +3,7 @@
 以身证法，自成大道    
 随缘回复，我心流水   
 
-热爱开源，深耕消息队列
+对消息中间件比较感兴趣
 
 GitHub：https://github.com/KouShenhai    
 Gitee：https://gitee.com/laokouyun     
