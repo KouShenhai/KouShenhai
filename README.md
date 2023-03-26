@@ -3,13 +3,14 @@
 以身证法，自成大道    
 随缘回复，我心流水   
 
-对消息中间件比较感兴趣
-
 GitHub：https://github.com/KouShenhai    
 Gitee：https://gitee.com/laokouyun     
 CSDN：https://kcloud.blog.csdn.net    
 
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
+
+[![热爱](https://img.shields.io/badge/热爱-RocketMQ-orange.svg)](https://github.com/apache/rocketmq)
+[![关注](https://img.shields.io/badge/探索-Pulsar-green.svg)](https://github.com/apache/pulsar) 
 
 ## 😲 性格分析
 INTJ
