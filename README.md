@@ -19,8 +19,8 @@ INTJ
 [![Top Langs](https://profile-counter.glitch.me/laokou/count.svg)](https://github.com/KouShenhai)
 
 ## 🔭 代码分析
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushenhai&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KouShenhai&layout=compact&theme=dark)
 
 ## &#x1f4c8; 代码统计
-![GithubStats](https://github-readme-stats.vercel.app/api?username=koushenhai&show_icons=true&count_private=true&theme=dark)
-![GitHubStreak](https://streak-stats.demolab.com?user=koushenhai&locale=zh_Hans)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&count_private=true&theme=dark)
+![GitHubStreak](https://streak-stats.demolab.com?user=KouShenhai&locale=zh_Hans)
