@@ -23,3 +23,4 @@ INTJ
 
 ## &#x1f4c8; 代码统计
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&count_private=true&theme=dark)
+![GitHubStreak](https://streak-stats.demolab.com?user=yanjinhuagood&locale=zh_Hans)
