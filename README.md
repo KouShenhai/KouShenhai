@@ -11,7 +11,7 @@ CSDN：https://kcloud.blog.csdn.net
 痴情难却相思泪，往事回首念旧人。  
 兜兜转转又三年，年年岁岁复一天。
 
-时间阴阳皆有数，因果轮回传千古。   
+时间阴阳皆定数，因果轮回传千古。   
 浩然正气天地存，人道合一破苍穹。
 
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
