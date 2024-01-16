@@ -15,7 +15,7 @@ CSDN：https://kcloud.blog.csdn.net
 浩然正气天地存，人道合一破苍穹。
 
 九载颠沛埋心间，一步踏错终是恨。  
-身在庐山安自知？待父归来杀杀杀。  
+身在庐山安自知？待夫归来杀杀杀。  
 
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
 
