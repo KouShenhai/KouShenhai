@@ -6,7 +6,8 @@
 GitHub：https://github.com/KouShenhai    
 Gitee：https://gitee.com/laokouyun     
 CSDN：https://kcloud.blog.csdn.net  
-稀土掘金：https://juejin.cn/user/160945808873534
+Juejin：https://juejin.cn/user/160945808873534
+Website：https://laokou.org.cn
 
 痴情难却相思泪，往事回首念旧人。  
 兜兜转转又三年，年年岁岁复一天。
