@@ -19,8 +19,9 @@ Website：https://laokou.org.cn
 身在庐山安自知？待夫归来杀杀杀。  
 
 断舍离  
-知行合一，格物致知      
-清净无为，逍遥自在  
+知行合一，格物致知       
+清净无为，逍遥自在    
+说到做到，火之意志   
 无神论者（不信教，不信神，不信佛）    
 
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
