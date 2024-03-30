@@ -24,6 +24,8 @@ Website：https://laokou.org.cn
 清净无为，逍遥自在       
 无神论者（不信教，不信神，不信佛）    
 
+擅长Java、GO
+
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
 
 ## 😲 性格分析
