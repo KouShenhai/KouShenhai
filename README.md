@@ -19,7 +19,7 @@ Website：https://laokou.org.cn
 身在庐山安自知？待夫归来杀杀杀。  
 
 十年蹉跎路漫漫，xxxxxxx。  
-xxxxxxx，      xxxxxxx。  
+xxxxxxx，xxxxxxx。  
 
 断舍离  
 知行合一，格物致知    
