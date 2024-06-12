@@ -18,8 +18,8 @@ Website：https://laokou.org.cn
 九载颠沛埋心间，一步踏错终生恨。  
 身在庐山安自知？待夫归来杀杀杀。  
 
-十年蹉跎路漫漫，xxxxxxx。  
-xxxxxxx，xxxxxxx。  
+十年蹉跎路漫漫，一腔热血负平生。  
+，。  
 
 断舍离  
 知行合一，格物致知    
