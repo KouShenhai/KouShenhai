@@ -41,5 +41,6 @@ INTJ
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KouShenhai&layout=compact&theme=dark)
 
 ## &#x1f4c8; 代码统计
-![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&count_private=true&theme=dark)
-![GitHubStreak](https://streak-stats.demolab.com?user=KouShenhai&locale=zh_Hans)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&count_private=true&theme=dark)  
+![GitHubStreak](https://streak-stats.demolab.com?user=KouShenhai&locale=zh_Hans)  
+![GitHubGraph](https://github-readme-activity-graph.vercel.app/graph?username=KouShenhai&theme=react-dark&bg_color=20232a&hide_border=true)
