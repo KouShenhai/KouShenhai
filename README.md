@@ -45,7 +45,7 @@ INTJ
 ![GitHubStreak](https://streak-stats.demolab.com?user=KouShenhai&locale=zh_Hans)    
 ![GitHubGraph](https://github-readme-activity-graph.vercel.app/graph?username=KouShenhai&theme=react-dark&bg_color=20232a&hide_border=true)
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=真传一句话，家传万卷书&center=true&size=30" /> <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=真传一句话，假传万卷书&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=巅峰诞生虚伪的拥护&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=黄昏见证虔诚的信徒&center=true&size=30" />
 </div>
