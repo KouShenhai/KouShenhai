@@ -45,7 +45,6 @@ INTJ【处女座】
 ![GitHubStreak](https://streak-stats.demolab.com?user=KouShenhai&locale=zh_Hans&theme=dark)    
 ![GitHubGraph](https://github-readme-activity-graph.vercel.app/graph?username=KouShenhai&theme=react-dark&bg_color=000000&hide_border=true)
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=天打雷劈身死道消不得好死&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=真传一句话，假传万卷书&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=巅峰诞生虚伪的拥护&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=黄昏见证虔诚的信徒&center=true&size=30" /> <br>
