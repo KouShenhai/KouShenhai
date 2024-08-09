@@ -53,7 +53,4 @@ INTJ【处女座】
 
  <img src="https://readme-typing-svg.herokuapp.com/?lines=向死而生，倒转阴阳&center=true&size=30" /> <br>
 
-
- <img src="https://readme-typing-svg.herokuapp.com/?lines=悦耳动听，玲珑剔透&center=true&size=30" />
-
 </div>
