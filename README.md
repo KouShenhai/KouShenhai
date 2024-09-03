@@ -32,8 +32,10 @@ Website：https://laokou.org.cn
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
 
 ## 🐋 代码贡献
-Contributor:
-- Alibaba Nacos
+<a href="https://github.com/pulls?q=is%3Apr+author%3AKouShenhai">
+        <img src="https://repository-contribution-stats.vercel.app/api?username=KouShenhai&hide=B&theme=dark&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0" 
+alt="laokou's GitHub Repository Contribution stats" />
+</a>
 
 ## 😲 性格分析
 INTJ【处女座】
@@ -54,7 +56,5 @@ INTJ【处女座】
   <img src="https://readme-typing-svg.herokuapp.com/?lines=黄昏见证虔诚的信徒&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=清净无为，方为大道&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=以身证法，自成大道&center=true&size=30" /> <br>
-
- <img src="https://readme-typing-svg.herokuapp.com/?lines=向死而生，倒转阴阳&center=true&size=30" /> <br>
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=向死而生，倒转阴阳&center=true&size=30" /> <br>
 </div>
