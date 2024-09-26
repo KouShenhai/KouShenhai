@@ -26,6 +26,7 @@ Website：https://laokou.org.cn
 说到做到，火之意志    
 清净无为，逍遥自在       
 无宗教信仰，无神论者   
+缘起缘灭缘终尽，花开花落花归尘
 
 擅长Java、GO，熟悉Lua，DDD忠实支持者，会一点Vue和React，深耕物联网领域
 
