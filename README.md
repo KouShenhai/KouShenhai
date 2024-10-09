@@ -23,7 +23,6 @@ Website：https://laokou.org.cn
 
 孝空  
 觉沉  
-断情  
 断舍离  
 知行合一，格物致知    
 说到做到，火之意志    
