@@ -30,7 +30,7 @@ Website：https://laokou.org.cn
 无宗教信仰，无神论者   
 缘起缘灭缘终尽，花开花落花归尘
 
-擅长Java、GO，熟悉Lua，DDD忠实支持者，会一点Vue和React，深耕物联网领域
+擅长Java、GO，熟悉Lua，DDD忠实支持者，会一点Vue和React，擅长车联网+工业物联网
 
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
 
