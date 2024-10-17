@@ -34,6 +34,14 @@ Website：https://laokou.org.cn
 
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
 
+## 😋 技术方向
+- 微服务
+- 云原生
+- 大数据
+- 音视频
+- 深度学习
+- 操作系统
+
 ## 🐋 代码贡献
 <a href="https://github.com/pulls?q=is%3Apr+author%3AKouShenhai">
         <img src="https://repository-contribution-stats.vercel.app/api?username=KouShenhai&hide=B&theme=dark&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0" 
