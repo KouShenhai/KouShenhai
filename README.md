@@ -66,6 +66,7 @@ INTJ【处女座】
 ## &#x1f4c8; 代码统计
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=KouShenhai&show_icons=true&count_private=true&theme=dark)   
 ![GitHubStreak](https://streak-stats.demolab.com?user=KouShenhai&locale=zh_Hans&theme=dark)    
+![GitCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KouShenhai&theme=dark)   
 ![GitHubGraph](https://github-readme-activity-graph.vercel.app/graph?username=KouShenhai&theme=react-dark&bg_color=000000&hide_border=true)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=真传一句话，假传万卷书&center=true&size=30" /> <br>
