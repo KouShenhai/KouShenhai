@@ -4,6 +4,7 @@
 随缘回复，我心流水   
 天下大同，万法归一    
 外求无果，内证大道  
+心正则明，明心见性  
 
 GitHub：https://github.com/KouShenhai    
 Gitee：https://gitee.com/laokouyun     
