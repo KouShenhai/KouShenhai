@@ -1,7 +1,8 @@
 ## 👋 个人简介
 我是老寇，我爱爪哇  
 以身证法，自成大道    
-随缘回复，我心流水   
+随缘回复，我心流水 
+天下大同，万法归一   
 
 GitHub：https://github.com/KouShenhai    
 Gitee：https://gitee.com/laokouyun     
