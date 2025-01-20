@@ -44,6 +44,10 @@ Website：https://laokou.org.cn
 
 擅长Java、GO，熟悉Lua，DDD忠实支持者，会一点Vue和React，擅长车联网+工业物联网
 
+[![Followers](https://img.shields.io/github/followers/KouShenhai?label=follow&style=social)](https://github.com/KouShenhai)
+[![All Commits](https://badges.pufler.dev/commits/all/KouShenhai?style=social)](https://badges.pufler.dev)
+[![Monthly Commits](https://badges.pufler.dev/commits/monthly/KouShenhai?style=social)](https://badges.pufler.dev)
+[![Years](https://badges.pufler.dev/years/KouShenhai?style=social)](https://badges.pufler.dev)
 [![qq交流群](https://img.shields.io/badge/Q群-218686225-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=WFANTXDEjrDw6UxsrRFCv_rQsEu6LTxH&jump_from=webapi)   
 
 ## 👊 思维模式
