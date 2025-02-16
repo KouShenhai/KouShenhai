@@ -45,7 +45,7 @@ Website：https://laokou.org.cn
 努力、毅力、人脉、胆识、魄力、格局   
 简洁至上、架构至上、数据至上、安全至上  
 
-擅长Java、GO，熟悉Lua，DDD忠实支持者，会一点Vue和React，擅长车联网+工业物联网
+擅长Java、GO，熟悉Lua，DDD忠实支持者，会一点Vue和React，正在学习c++和rust，擅长车联网+工业物联网
 
 [![Followers](https://img.shields.io/github/followers/KouShenhai?label=follow)](https://github.com/KouShenhai)
 [![All Commits](https://badges.pufler.dev/commits/all/KouShenhai)](https://badges.pufler.dev)
