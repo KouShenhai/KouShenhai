@@ -72,7 +72,7 @@ Website：https://laokou.org.cn
 
 ## 🐋 代码贡献
 <a href="https://github.com/pulls?q=is%3Apr+author%3AKouShenhai">
-        <img src="https://repository-contribution-stats.vercel.app/api?username=KouShenhai&hide=B&theme=dark&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0" 
+        <img src="https://repository-contribution-stats.vercel.app/api?username=KouShenhai&hide=B&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0" 
 alt="laokou's GitHub Repository Contribution stats" />
 </a>
 
