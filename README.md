@@ -96,7 +96,7 @@ INTJ【处女座】
   <img src="https://readme-typing-svg.herokuapp.com/?lines=真传一句话，假传万卷书&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=巅峰诞生虚伪的拥护&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=黄昏见证虔诚的信徒&center=true&size=30" /> <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=清静无为，就是大道&center=true&size=30" /> <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=清静无为，顺其自然&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=以身证法，自成大道&center=true&size=30" /> <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=向死而生，倒转阴阳&center=true&size=30" /> <br>
 </div>
