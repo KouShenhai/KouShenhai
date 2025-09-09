@@ -85,6 +85,7 @@ INTJ【处女座】
 [![Top Langs](https://profile-counter.glitch.me/laokou/count.svg)](https://github.com/KouShenhai)
 
 ## 🔭 代码分析
+<a href="https://gitroll.io/profile/u4z3LCx00xYNDvSp2B7flguXdKp73" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4z3LCx00xYNDvSp2B7flguXdKp73?theme=light" alt="GitRoll Profile Badge"/></a>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KouShenhai&layout=compact&theme=dark)
 
 ## &#x1f4c8; 代码统计
