@@ -16,8 +16,8 @@ CSDN：https://kcloud.blog.csdn.net
 Juejin：https://juejin.cn/user/160945808873534  
 Website：https://laokou.org.cn  
 
-痴情难却相思泪，往事回首念旧人。  
-兜兜转转又三年，年年岁岁复一天。
+痴情难挽相思泪，往事萦怀念旧人。  
+兜转流光又三载，岁岁年年只此身。  
 
 时序阴阳皆定数，因果轮回贯古今。  
 浩然正气充天地，人道同归破穹岑。  
